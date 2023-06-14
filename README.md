@@ -40,5 +40,6 @@ Order cancellation increases with increasing ETAs, with the highest ETAs happeni
 Highest Number of Order Cancellations are found in and around Reading Town. They need to be investigated further.
 
 Recommendations to reduce cancellations:
+- Reduce time taken for Driver to reach the Client at hour `5` as this is the time having the highest average cancellation time.
 - Reduce wait times especially at 7:00 to 8:00 and 16:00 to 17:00 as this time coincides with rush-hour where clients catch a ride to work and from work respectively.
 - A reasonable business strategy would be to incentivize people to offer their cars for ride hailing within this time period for higher fares. Thus making more rides available  and thus reducing ETAs.
